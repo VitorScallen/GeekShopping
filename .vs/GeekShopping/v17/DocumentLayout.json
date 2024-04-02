@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53042628-8D1E-4B81-B483-EAEACEBA17DD}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\scall\\onedrive\\documentos\\dotnet\\geekshopping\\geekshopping.productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53042628-8D1E-4B81-B483-EAEACEBA17DD}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53042628-8D1E-4B81-B483-EAEACEBA17DD}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\scall\\onedrive\\documentos\\dotnet\\geekshopping\\geekshopping.productapi\\migrations\\20240402040158_seedproductdatatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53042628-8D1E-4B81-B483-EAEACEBA17DD}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\migrations\\20240402040158_seedproductdatatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53042628-8D1E-4B81-B483-EAEACEBA17DD}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\scall\\onedrive\\documentos\\dotnet\\geekshopping\\geekshopping.productapi\\migrations\\20240402035705_addproductdatatableondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53042628-8D1E-4B81-B483-EAEACEBA17DD}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\migrations\\20240402035705_addproductdatatableondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.ProductAPI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.ProductAPI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAYwEAAAAAAAAAA",
+              "Title": "20240402040158_SeedProductDataTable.cs",
+              "DocumentMoniker": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.ProductAPI\\Migrations\\20240402040158_SeedProductDataTable.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Migrations\\20240402040158_SeedProductDataTable.cs",
+              "ToolTip": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.ProductAPI\\Migrations\\20240402040158_SeedProductDataTable.cs*",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\Migrations\\20240402040158_SeedProductDataTable.cs*",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAmwFoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T02:23:05.171Z",
+              "WhenOpened": "2024-04-02T04:08:23.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240402035705_AddProductDataTableOnDB.cs",
+              "DocumentMoniker": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.ProductAPI\\Migrations\\20240402035705_AddProductDataTableOnDB.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Migrations\\20240402035705_AddProductDataTableOnDB.cs",
+              "ToolTip": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.ProductAPI\\Migrations\\20240402035705_AddProductDataTableOnDB.cs*",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\Migrations\\20240402035705_AddProductDataTableOnDB.cs*",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:08:13.895Z",
               "EditorCaption": ""
             }
           ]
