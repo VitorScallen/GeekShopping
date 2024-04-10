@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53042628-8D1E-4B81-B483-EAEACEBA17DD}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\scall\\onedrive\\documentos\\dotnet\\geekshopping\\geekshopping.productapi\\migrations\\20240402035705_addproductdatatableondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53042628-8D1E-4B81-B483-EAEACEBA17DD}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\migrations\\20240402035705_addproductdatatableondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3AE87B98-94EC-4956-8904-D69DA9719F66}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\scall\\onedrive\\documentos\\dotnet\\geekshopping\\geekshopping.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE87B98-94EC-4956-8904-D69DA9719F66}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53042628-8D1E-4B81-B483-EAEACEBA17DD}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\scall\\onedrive\\documentos\\dotnet\\geekshopping\\geekshopping.productapi\\migrations\\mysqlcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53042628-8D1E-4B81-B483-EAEACEBA17DD}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\migrations\\mysqlcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53042628-8D1E-4B81-B483-EAEACEBA17DD}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\scall\\onedrive\\documentos\\dotnet\\geekshopping\\geekshopping.productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53042628-8D1E-4B81-B483-EAEACEBA17DD}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53042628-8D1E-4B81-B483-EAEACEBA17DD}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|c:\\users\\scall\\onedrive\\documentos\\dotnet\\geekshopping\\geekshopping.productapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53042628-8D1E-4B81-B483-EAEACEBA17DD}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE87B98-94EC-4956-8904-D69DA9719F66}|GeekShopping.Web\\GeekShopping.Web.csproj|c:\\users\\scall\\onedrive\\documentos\\dotnet\\geekshopping\\geekshopping.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE87B98-94EC-4956-8904-D69DA9719F66}|GeekShopping.Web\\GeekShopping.Web.csproj|solutionrelative:geekshopping.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 418,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,29 +38,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MySQLContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.ProductAPI\\Migrations\\MySQLContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Migrations\\MySQLContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.ProductAPI\\Migrations\\MySQLContextModelSnapshot.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Migrations\\MySQLContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.Web\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.Web\\Services\\ProductService.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Services\\ProductService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T04:13:20.53Z",
+              "WhenOpened": "2024-04-10T20:18:06.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240402035705_AddProductDataTableOnDB.cs",
-              "DocumentMoniker": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.ProductAPI\\Migrations\\20240402035705_AddProductDataTableOnDB.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Migrations\\20240402035705_AddProductDataTableOnDB.cs",
-              "ToolTip": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.ProductAPI\\Migrations\\20240402035705_AddProductDataTableOnDB.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Migrations\\20240402035705_AddProductDataTableOnDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.ProductAPI\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.ProductAPI\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T04:08:13.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T20:14:14.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.ProductAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.ProductAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GeekShopping.ProductAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowBcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T20:06:44.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.Web\\Startup.cs",
+              "RelativeDocumentMoniker": "GeekShopping.Web\\Startup.cs",
+              "ToolTip": "C:\\Users\\scall\\OneDrive\\Documentos\\DOTNET\\GeekShopping\\GeekShopping.Web\\Startup.cs",
+              "RelativeToolTip": "GeekShopping.Web\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:16:21.424Z"
             }
           ]
         }
