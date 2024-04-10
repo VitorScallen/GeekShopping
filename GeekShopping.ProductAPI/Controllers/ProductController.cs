@@ -2,7 +2,6 @@
 using GeekShopping.ProductAPI.Repository;
 using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -52,7 +51,7 @@ namespace GeekShopping.ProductAPI.Controllers
             return Ok(product);
         }
 
-        [HttpDelete]
+        [HttpDelete("delete/{id}")]
         public async Task<ActionResult> Delete(long id)
         {
             var status = await _repository.Delete(id);
