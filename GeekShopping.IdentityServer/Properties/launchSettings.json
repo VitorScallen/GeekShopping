@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "GeekShopping.IdentityServer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50308;http://localhost:50310"
+    }
+  }
+}
